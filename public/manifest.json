@@ -1,0 +1,22 @@
+{
+  "name": "Designed To Produce",
+  "short_name": "DTP App",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/assets/94691.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/94691.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
+
